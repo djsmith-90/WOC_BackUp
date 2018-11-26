@@ -1,0 +1,285 @@
+fileName,rDataFilePath,rStudies
+OC_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Obstetric,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ob_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Obstetric,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+OA_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Obstetric,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+OB_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Obstetric,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+OC_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Obstetric,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+OA_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Obstetric,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+Father_metabolomics_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Father,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+Father_samples_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Father,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+Father_metabolomics_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Father,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+Father_samples_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Father,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+Mother_samples_r3a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+mum_metabolomics_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+Mother_samples_r3a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+mum_metabolomics_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+Child_bloods_r3a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+child_metabolomics_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+Child_bloods_r3a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+child_metabolomics_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Samples\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kz_5b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Sample Definition,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+mz_5a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Sample Definition,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+mz_5a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Sample Definition,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kz_5b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Sample Definition,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+maternal_grandfather_social_class_r2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+mother_social_class_r2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+partner_proxy_social_class_r2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+paternal_grandfather_social_class_r2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+partner_complete_r2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+maternal_grandmother_social_class_r2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+paternal_grandmother_social_class_r2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+mother_social_class_r2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+partner_proxy_social_class_r2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+maternal_grandmother_social_class_r2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+paternal_grandfather_social_class_r2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+partner_complete_r2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+maternal_grandfather_social_class_r2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+paternal_grandmother_social_class_r2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Social_Class,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cp_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Cohort Profile,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cp_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Cohort Profile,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cp_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Cohort Profile,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cp_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Other\Cohort Profile,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f10_5a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tf2_3a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f07_4a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f07_4a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f09_4a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f08_4a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tf1_3a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f09_4a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tf1_3a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cif_8a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+F24_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tf3_4a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f10_5a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tf4_4a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tf3_4a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f08_4a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tf2_3a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tf4_4a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+F24_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f11_5a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f11_5a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cif_8a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Child,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FOF1_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Adult,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FOF1_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Adult,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FOM2_3a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Adult,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FOM3_1d.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Adult,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FOM1_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Adult,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FOM3_1d.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Adult,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FOM2_3a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Adult,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FOM1_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Adult,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FOM4_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Adult,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FOM4_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Clinic\Adult,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FA_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Father,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+FA_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Father,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+sh_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Schools,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+sk_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Schools,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+sd_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Schools,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+sefg_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Schools,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+sk_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Schools,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+sabc_1d.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Schools,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+sh_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Schools,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+sefg_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Schools,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+sabc_1d.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Schools,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+sd_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Schools,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tb_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+txa_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kk_2c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kf_8a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ta_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ku_r2b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+td_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kr_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kj_6c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kd_4b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kf_8a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kq_3a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kp_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+td_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tc_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kl_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kc_5b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kd_4b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+txa_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kb_6d.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tb_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ks_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kr_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kn_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+tc_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kw_r2b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kj_6c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kk_2c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+km_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kn_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kp_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ku_r2b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ke_5c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kv_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kb_6d.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kt_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kv_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+km_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kw_r2b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kq_3a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kc_5b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ka_4c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kg_4b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ks_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kg_4b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kt_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ka_4c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ke_5c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+kl_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ta_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Based,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub5_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub9_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub8_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub1_3b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub5_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub2_2b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub6_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub7_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub7_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub3_3a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub4_3a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub1_3b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub3_3a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub8_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub6_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub2_2b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub4_3a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pub9_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Puberty,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+d_4a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+n_3a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+e_4e.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+r_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+e_4e.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+q_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+l_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+g_5c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+n_3a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f_2b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+xa_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+s_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+k_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+c_8a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+t_1c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+a_3d.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+xa_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+c_8a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+a_3d.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+p_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+h_6d.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+f_2b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+k_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+l_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+g_5c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+xb_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+m_2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+xb_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+q_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+j_5a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+b_4e.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+t_1c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+b_4e.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+u_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+m_2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+s_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+p_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+d_4a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+u_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+h_6d.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+j_5a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+r_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Mother,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pg_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pc_2b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ph_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pl_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pxa_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pk_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pd_7b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pq_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pd_7b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pb_4a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pm_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pp_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pa_4a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pc_2b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pj_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pa_4a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pe_3c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pn_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pe_3c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pj_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pq_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pxa_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pp_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ph_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pl_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pg_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pn_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pf_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pf_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pb_4a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pk_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+pm_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Partner,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccu_2b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccb_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccu_2b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccr_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccm_r1c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccc_r1c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccb_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccj_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccr_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxf_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccl_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccf_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxd_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccf_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cch_r1c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+YPC_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cce_r1c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+YPD_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxd_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cct_1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+YPB_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccl_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxf_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cck_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cch_r1c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccg_r1c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccp_r1c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxe_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccq_r1c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccs_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+YPA_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccc_r1c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+YPD_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccs_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccd_r1c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxb_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccm_r1c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+YPC_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccj_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cce_r1c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccd_r1c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxc_r2a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxb_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccq_r1c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccn_r1c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxa_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cck_r1b.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+YPB_r1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxe_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccg_r1c.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cca_1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccp_r1c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+YPA_r1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cca_1a.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccn_r1c.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxa_r1a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+cct_1b.sav,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
+ccxc_r2a.dta,R:\CTeam\RCteam\Users\DanSmith\OpalTest\R_Current\Current\Quest\Child Completed,R:\CTeam\RCteam\Users\DanSmith\OpalTest\Studies_Test
